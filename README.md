@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nijeff27
-- 👀 I’m interested in C# and Node.JS
-- 🌱 I’m currently learning C# and Node.JS
+It's a me, Mario.
 
 <!---
 nijeff27/nijeff27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
