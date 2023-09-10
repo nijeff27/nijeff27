@@ -1,5 +1,3 @@
-👋 Hi, I’m @nijeff27
-
 It's a me, Mario.
 
 <!---
