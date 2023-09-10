@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nijeff27
+👋 Hi, I’m @nijeff27
 
 It's a me, Mario.
 
